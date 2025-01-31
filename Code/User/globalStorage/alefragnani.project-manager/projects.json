@@ -1,0 +1,16 @@
+[
+	{
+		"name": "Nixos",
+		"rootPath": "/home/fuyu/.nixos",
+		"paths": [],
+		"tags": [],
+		"enabled": true
+	},
+	{
+		"name": ".nixos2",
+		"rootPath": "/home/fuyu/.nixos2",
+		"paths": [],
+		"tags": [],
+		"enabled": true
+	}
+]

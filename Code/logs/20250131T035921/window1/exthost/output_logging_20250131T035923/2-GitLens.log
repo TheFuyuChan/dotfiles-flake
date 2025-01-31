@@ -1,0 +1,32 @@
+GitLens v16.2.1 activating in Visual Studio Code (1.96.4) on the desktop; language='en', logLevel='warn', defaultDateLocale='null' (d221624656030d57821f6017dfab058824ff8b7b64911eb55fe1e851f90f22da|334fe344-9ab0-40fd-b5cd-affeee70eac51738292362420)
+To enable debug logging, set `"gitlens.outputLevel": "debug"` or run "GitLens: Enable Debug Logging" from the Command Palette
+[2025-01-31 02:59:26.361] [GIT          ] [/home/fuyu/.nixos2] git rev-parse --show-toplevel • Command failed: /run/current-system/sw/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git [50ms]
+
+[2025-01-31 02:59:26.887] [GIT          ] [/home/fuyu/.nixos2/home/features/desktop/hyprland] git rev-parse --show-toplevel • Command failed: /run/current-system/sw/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git [356ms]
+
+[2025-01-31 02:59:26.985] [GIT          ] [/home/fuyu/.nixos2/.vscode/todo] git rev-parse --show-toplevel • Command failed: /run/current-system/sw/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git [109ms]
+
+[2025-01-31 02:59:26.985] [GIT          ] [/home/fuyu/.nixos2/home/fuyu] git rev-parse --show-toplevel • Command failed: /run/current-system/sw/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git [115ms]
+
+[2025-01-31 02:59:27.296] [GIT          ] [/home/fuyu/.nixos2/.vscode/todo] git rev-parse --show-toplevel • Command failed: /run/current-system/sw/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git [107ms]
+
+[2025-01-31 02:59:44.909] [GIT          ] [/home/fuyu/.nixos2/home/fuyu] git rev-parse --show-toplevel • Command failed: /run/current-system/sw/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git [5ms]
+
+[2025-01-31 02:59:52.900] [GIT          ] [/home/fuyu/.nixos2/hosts/common] git rev-parse --show-toplevel • Command failed: /run/current-system/sw/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git [9ms]
+
+[2025-01-31 03:01:49.694] [GIT          ] [/home/fuyu/.nixos2] git rev-parse --show-toplevel • Command failed: /run/current-system/sw/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git [8ms]
+
+[2025-01-31 03:02:06.901] [GIT          ] [/home/fuyu/.nixos2/home/features/desktop] git rev-parse --show-toplevel • Command failed: /run/current-system/sw/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git [7ms]
+
+[2025-01-31 03:06:14.151] [GIT          ] [/home/fuyu/.nixos2/home/features/desktop/hyprland] git rev-parse --show-toplevel • Command failed: /run/current-system/sw/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git [18ms]
+
+[2025-01-31 03:07:32.435] [GIT          ] [/home/fuyu/.nixos2/hosts/laptop] git rev-parse --show-toplevel • Command failed: /run/current-system/sw/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git [8ms]
+
+[2025-01-31 03:08:02.679] [GIT          ] [/home/fuyu/.nixos2/home/features/desktop] git rev-parse --show-toplevel • Command failed: /run/current-system/sw/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git [7ms]
+
+[2025-01-31 03:13:31.636] [GIT          ] [/home/fuyu/.nixos2/home/features/desktop] git rev-parse --show-toplevel • Command failed: /run/current-system/sw/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git [8ms]
+
+[2025-01-31 03:13:43.552] [GIT          ] [/home/fuyu/.nixos2/home/features/cli] git rev-parse --show-toplevel • Command failed: /run/current-system/sw/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git [7ms]
+
+[2025-01-31 03:16:14.311] [GIT          ] [/home/fuyu/.nixos2/home/features/cli] git rev-parse --show-toplevel • Command failed: /run/current-system/sw/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git [8ms]
+

@@ -1,0 +1,7 @@
+{
+    "todo-tree.general.showActivityBarBadge": true,
+    "todo-tree.general.statusBar": "tags",
+    "todo-tree.highlights.useColourScheme": true,
+    "todo-tree.tree.groupedByTag": true,
+    "todo-tree.tree.hideTreeWhenEmpty": true
+}

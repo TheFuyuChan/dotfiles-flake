@@ -1,0 +1,18 @@
+{
+    "todo-tree.general.statusBar": "tags",
+    "todo-tree.highlights.useColourScheme": true,
+    "todo-tree.tree.groupedByTag": true,
+    "todo-tree.tree.hideTreeWhenEmpty": true,
+    "todo-tree.tree.showCountsInTree": true,
+    "todo-tree.tree.tagsOnly": true,
+    "todo-tree.tree.buttons.groupBySubTag": true,
+    "todomd.addCreationDate": true,
+    "todomd.autoArchiveTasks": true,
+    "todomd.completionDateIncludeTime": true,
+    "todomd.counterBadgeEnabled": true,
+    "todomd.defaultFile": "${workspaceFolder}/.vscode/todo/todo.md",
+    "todomd.defaultArchiveFile": "${workspaceFolder}/.vscode/todo/archive.md",
+    "todomd.defaultSomedayFile": "${workspaceFolder}/.vscode/todo/someday.md",
+    "todomd.durationIncludeSeconds": true,
+    "todo-tree.general.showIconsInsteadOfTagsInStatusBar": true
+}

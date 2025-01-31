@@ -1,0 +1,79 @@
+2025-01-31 18:37:58.616 [info] Extension host with pid 137715 started
+2025-01-31 18:37:58.616 [info] Skipping acquiring lock for /home/fuyu/.config/Code/User/workspaceStorage/40cf4b8903030539e620e81070ea0f29.
+2025-01-31 18:37:59.044 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-01-31 18:37:59.091 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-01-31 18:37:59.110 [info] ExtensionService#_doActivateExtension jnoortheen.nix-ide, startup: false, activationEvent: 'onLanguage:nix'
+2025-01-31 18:37:59.172 [info] ExtensionService#_doActivateExtension kamadorueda.alejandra, startup: false, activationEvent: 'onLanguage:nix'
+2025-01-31 18:37:59.419 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-01-31 18:37:59.423 [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag, startup: true, activationEvent: '*'
+2025-01-31 18:37:59.437 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-01-31 18:37:59.532 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-01-31 18:37:59.686 [info] Eager extensions activated
+2025-01-31 18:37:59.726 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-01-31 18:37:59.728 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-01-31 18:37:59.747 [info] ExtensionService#_doActivateExtension alefragnani.project-manager, startup: false, activationEvent: 'onStartupFinished'
+2025-01-31 18:37:59.762 [info] ExtensionService#_doActivateExtension Catppuccin.catppuccin-vsc, startup: false, activationEvent: 'onStartupFinished'
+2025-01-31 18:37:59.768 [info] ExtensionService#_doActivateExtension Catppuccin.catppuccin-vsc-icons, startup: false, activationEvent: 'onStartupFinished'
+2025-01-31 18:37:59.883 [info] ExtensionService#_doActivateExtension eamodio.gitlens, startup: false, activationEvent: 'onStartupFinished'
+2025-01-31 18:38:00.068 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2025-01-31 18:38:00.152 [info] ExtensionService#_doActivateExtension Gruntfuggly.todo-tree, startup: false, activationEvent: 'onStartupFinished'
+2025-01-31 18:38:00.198 [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+2025-01-31 18:38:00.214 [info] ExtensionService#_doActivateExtension usernamehw.todo-md, startup: false, activationEvent: 'onStartupFinished'
+2025-01-31 18:38:00.715 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:markdown'
+2025-01-31 18:38:00.734 [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+2025-01-31 18:38:00.848 [info] ExtensionService#_doActivateExtension yzhang.markdown-all-in-one, startup: false, activationEvent: 'onLanguage:markdown'
+2025-01-31 18:38:01.081 [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: yzhang.markdown-all-in-one
+2025-01-31 18:38:01.126 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-01-31 18:38:01.138 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-01-31 18:38:01.193 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-01-31 18:42:56.590 [error] [kamadorueda.alejandra] provider FAILED
+2025-01-31 18:42:56.591 [error] Error: Command failed: alejandra
+Formatting stdin.
+Use --help to see all command line options.
+use --quiet to suppress this and other messages.
+
+Failed! 1 error found at:
+- <anonymous file on stdin>: unexpected TOKEN_CURLY_B_CLOSE at 89..90, wanted any of [TOKEN_SEMICOLON]
+
+	at genericNodeError (node:internal/errors:984:15)
+	at wrappedFn (node:internal/errors:538:14)
+	at ChildProcess.exithandler (node:child_process:423:12)
+	at ChildProcess.emit (node:events:518:28)
+	at maybeClose (node:internal/child_process:1104:16)
+	at Socket.<anonymous> (node:internal/child_process:456:11)
+	at Socket.emit (node:events:518:28)
+	at Pipe.<anonymous> (node:net:343:12)
+2025-01-31 18:58:47.003 [error] [kamadorueda.alejandra] provider FAILED
+2025-01-31 18:58:47.003 [error] Error: Command failed: alejandra
+Formatting stdin.
+Use --help to see all command line options.
+use --quiet to suppress this and other messages.
+
+Failed! 1 error found at:
+- <anonymous file on stdin>: unexpected end of file, wanted any of [TOKEN_SEMICOLON]
+
+	at genericNodeError (node:internal/errors:984:15)
+	at wrappedFn (node:internal/errors:538:14)
+	at ChildProcess.exithandler (node:child_process:423:12)
+	at ChildProcess.emit (node:events:518:28)
+	at maybeClose (node:internal/child_process:1104:16)
+	at Socket.<anonymous> (node:internal/child_process:456:11)
+	at Socket.emit (node:events:518:28)
+	at Pipe.<anonymous> (node:net:343:12)
+2025-01-31 19:00:53.016 [error] [kamadorueda.alejandra] provider FAILED
+2025-01-31 19:00:53.016 [error] Error: Command failed: alejandra
+Formatting stdin.
+Use --help to see all command line options.
+use --quiet to suppress this and other messages.
+
+Failed! 1 error found at:
+- <anonymous file on stdin>: unexpected TOKEN_SQUARE_B_OPEN at 27..50, wanted any of [TOKEN_ASSIGN]
+
+	at genericNodeError (node:internal/errors:984:15)
+	at wrappedFn (node:internal/errors:538:14)
+	at ChildProcess.exithandler (node:child_process:423:12)
+	at ChildProcess.emit (node:events:518:28)
+	at maybeClose (node:internal/child_process:1104:16)
+	at Socket.<anonymous> (node:internal/child_process:456:11)
+	at Socket.emit (node:events:518:28)
+	at Pipe.<anonymous> (node:net:343:12)

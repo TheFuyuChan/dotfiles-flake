@@ -1,0 +1,66 @@
+[2025-01-31 17:38:00.596] [         58ms] [/home/fuyu/.nixos2] git rev-parse --show-toplevel • FAILED
+
+Error: Command failed: /run/current-system/sw/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+
+
+[2025-01-31 17:38:01.263] [        162ms] [/home/fuyu/.config/Code/todo] git rev-parse --show-toplevel • FAILED
+
+Error: Command failed: /run/current-system/sw/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+
+
+[2025-01-31 17:38:01.264] [          0ms] [/home/fuyu/.config/Code/todo] git rev-parse --show-toplevel (waiting) • FAILED
+
+Error: Command failed: /run/current-system/sw/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+
+
+[2025-01-31 17:38:01.264] [        169ms] [/home/fuyu/.nixos2/hosts/common] git rev-parse --show-toplevel • FAILED
+
+Error: Command failed: /run/current-system/sw/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+
+
+[2025-01-31 17:38:03.188] [          9ms] [/home/fuyu/.nixos2] git rev-parse --show-toplevel • FAILED
+
+Error: Command failed: /run/current-system/sw/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+
+
+[2025-01-31 17:40:51.521] [         11ms] [/home/fuyu/.nixos2/home/fuyu/dotfiles] git rev-parse --show-toplevel • FAILED
+
+Error: Command failed: /run/current-system/sw/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+
+
+[2025-01-31 17:41:06.124] [          7ms] [/home/fuyu/.nixos2/home/fuyu] git rev-parse --show-toplevel • FAILED
+
+Error: Command failed: /run/current-system/sw/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+
+
+[2025-01-31 17:47:07.338] [          7ms] [/home/fuyu/.nixos2/home/features/desktop] git rev-parse --show-toplevel • FAILED
+
+Error: Command failed: /run/current-system/sw/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+
+
+[2025-01-31 17:53:20.973] [          8ms] [/home/fuyu/.nixos2/home/features/desktop] git rev-parse --show-toplevel • FAILED
+
+Error: Command failed: /run/current-system/sw/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+
+
+[2025-01-31 17:57:23.629] [          8ms] [/home/fuyu/.nixos2/home/fuyu/dotfiles] git rev-parse --show-toplevel • FAILED
+
+Error: Command failed: /run/current-system/sw/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+
+
+[2025-01-31 17:57:46.492] [          7ms] [/home/fuyu/.nixos2] git rev-parse --show-toplevel • FAILED
+
+Error: Command failed: /run/current-system/sw/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+
+

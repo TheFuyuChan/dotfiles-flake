@@ -1,0 +1,111 @@
+Running Alejandra with settings: {"alejandra":{"program":"alejandra"}}
+Feeding 2474 of input to stdin
+Running Alejandra with settings: {"alejandra":{"program":"alejandra"}}
+Feeding 2513 of input to stdin
+Running Alejandra with settings: {"alejandra":{"program":"alejandra"}}
+Feeding 2527 of input to stdin
+Running Alejandra with settings: {"alejandra":{"program":"alejandra"}}
+Feeding 356 of input to stdin
+Running Alejandra with settings: {"alejandra":{"program":"alejandra"}}
+Feeding 27 of input to stdin
+Running Alejandra with settings: {"alejandra":{"program":"alejandra"}}
+Feeding 22 of input to stdin
+Running Alejandra with settings: {"alejandra":{"program":"alejandra"}}
+Feeding 94 of input to stdin
+error: Error: Command failed: alejandra
+Formatting stdin.
+Use --help to see all command line options.
+use --quiet to suppress this and other messages.
+
+Failed! 1 error found at:
+- <anonymous file on stdin>: unexpected TOKEN_CURLY_B_CLOSE at 89..90, wanted any of [TOKEN_SEMICOLON]
+
+stderr: Formatting stdin.
+Use --help to see all command line options.
+use --quiet to suppress this and other messages.
+
+Failed! 1 error found at:
+- <anonymous file on stdin>: unexpected TOKEN_CURLY_B_CLOSE at 89..90, wanted any of [TOKEN_SEMICOLON]
+
+Running Alejandra with settings: {"alejandra":{"program":"alejandra"}}
+Feeding 95 of input to stdin
+Running Alejandra with settings: {"alejandra":{"program":"alejandra"}}
+Feeding 117 of input to stdin
+Running Alejandra with settings: {"alejandra":{"program":"alejandra"}}
+Feeding 59 of input to stdin
+Running Alejandra with settings: {"alejandra":{"program":"alejandra"}}
+Feeding 39 of input to stdin
+Running Alejandra with settings: {"alejandra":{"program":"alejandra"}}
+Feeding 94 of input to stdin
+Running Alejandra with settings: {"alejandra":{"program":"alejandra"}}
+Feeding 157 of input to stdin
+Running Alejandra with settings: {"alejandra":{"program":"alejandra"}}
+Feeding 173 of input to stdin
+Running Alejandra with settings: {"alejandra":{"program":"alejandra"}}
+Feeding 369 of input to stdin
+Running Alejandra with settings: {"alejandra":{"program":"alejandra"}}
+Feeding 176 of input to stdin
+Running Alejandra with settings: {"alejandra":{"program":"alejandra"}}
+Feeding 383 of input to stdin
+Running Alejandra with settings: {"alejandra":{"program":"alejandra"}}
+Feeding 117 of input to stdin
+Running Alejandra with settings: {"alejandra":{"program":"alejandra"}}
+Feeding 213 of input to stdin
+Running Alejandra with settings: {"alejandra":{"program":"alejandra"}}
+Feeding 204 of input to stdin
+Running Alejandra with settings: {"alejandra":{"program":"alejandra"}}
+Feeding 204 of input to stdin
+Running Alejandra with settings: {"alejandra":{"program":"alejandra"}}
+Feeding 204 of input to stdin
+Running Alejandra with settings: {"alejandra":{"program":"alejandra"}}
+Feeding 366 of input to stdin
+error: Error: Command failed: alejandra
+Formatting stdin.
+Use --help to see all command line options.
+use --quiet to suppress this and other messages.
+
+Failed! 1 error found at:
+- <anonymous file on stdin>: unexpected end of file, wanted any of [TOKEN_SEMICOLON]
+
+stderr: Formatting stdin.
+Use --help to see all command line options.
+use --quiet to suppress this and other messages.
+
+Failed! 1 error found at:
+- <anonymous file on stdin>: unexpected end of file, wanted any of [TOKEN_SEMICOLON]
+
+Running Alejandra with settings: {"alejandra":{"program":"alejandra"}}
+Feeding 368 of input to stdin
+Running Alejandra with settings: {"alejandra":{"program":"alejandra"}}
+Feeding 375 of input to stdin
+Running Alejandra with settings: {"alejandra":{"program":"alejandra"}}
+Feeding 380 of input to stdin
+Running Alejandra with settings: {"alejandra":{"program":"alejandra"}}
+Feeding 371 of input to stdin
+Running Alejandra with settings: {"alejandra":{"program":"alejandra"}}
+Feeding 382 of input to stdin
+Running Alejandra with settings: {"alejandra":{"program":"alejandra"}}
+Feeding 51 of input to stdin
+error: Error: Command failed: alejandra
+Formatting stdin.
+Use --help to see all command line options.
+use --quiet to suppress this and other messages.
+
+Failed! 1 error found at:
+- <anonymous file on stdin>: unexpected TOKEN_SQUARE_B_OPEN at 27..50, wanted any of [TOKEN_ASSIGN]
+
+stderr: Formatting stdin.
+Use --help to see all command line options.
+use --quiet to suppress this and other messages.
+
+Failed! 1 error found at:
+- <anonymous file on stdin>: unexpected TOKEN_SQUARE_B_OPEN at 27..50, wanted any of [TOKEN_ASSIGN]
+
+Running Alejandra with settings: {"alejandra":{"program":"alejandra"}}
+Feeding 53 of input to stdin
+Running Alejandra with settings: {"alejandra":{"program":"alejandra"}}
+Feeding 427 of input to stdin
+Running Alejandra with settings: {"alejandra":{"program":"alejandra"}}
+Feeding 387 of input to stdin
+Running Alejandra with settings: {"alejandra":{"program":"alejandra"}}
+Feeding 405 of input to stdin
